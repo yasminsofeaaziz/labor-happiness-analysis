@@ -44,7 +44,7 @@ Data was gathered from multiple public statistics and survey reports:
 **Data Analysis & Visualization (Python Libraries):**
 - `numpy`: Correlation coefficient calculations (`np.corrcoef`) and polynomial regression fitting (`np.polyfit`)
 - `matplotlib`: Custom scatter plot generation, axis labeling, figure styling, and color-mapping (`Normalize`, `cm.ScalerMappable`)
-- `japanmap`: Geospatial visuaalization of Japan's 47 prefectures mapped to color gradients
+- `japanmap`: Geospatial visualization of Japan's 47 prefectures mapped to color gradients
 - `japanize_matplotlib`: Enabling Japanese text rendering within Matplotlib figures
 
 ## Methodology:
