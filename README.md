@@ -31,7 +31,7 @@ Data was gathered from multiple public statistics and survey reports:
 - **Sony Life Insurance Co., Ltd:**
     - "47-Prefecture Life Awareness Survey 2024" (47都道府県別　生活意識調査2024): https://www.sonylife.co.jp/company/news/2024/nr_241212.html
 
-## Tools:
+## Tools
 
 `Microsoft Excel` `Google Colab` `Python`
 
@@ -47,7 +47,7 @@ Data was gathered from multiple public statistics and survey reports:
 - `japanmap`: Geospatial visualization of Japan's 47 prefectures mapped to color gradients
 - `japanize_matplotlib`: Enabling Japanese text rendering within Matplotlib figures
 
-## Methodology:
+## Methodology
 
 1. **Data Aggregation & Preparation:**
     - Extracted government data on overtime, mental health claims, and regional working hours from e-Stat and MHLW releases.
@@ -67,7 +67,7 @@ Data was gathered from multiple public statistics and survey reports:
     ![alt text](scatterplot.png)
     - Compared international cross-country trends between annual hours worked and global happiness rankings.
 
-## Insights:
+## Insights
 
 **International Inverse Correlation:**
 - Globally, countries with shorter average working hours (e.g., Finland at 1,509 hrs/year, score: 7.74) generally exhibit significantly higher life satisfaction scores than countries with excessive working hours (e.g., Mexico at 2,193 hrs/year, score: 6.98).
@@ -81,7 +81,7 @@ Data was gathered from multiple public statistics and survey reports:
 **Rising Mental Health Distress:**
 - Compensation claims for work-related mental disorders rose steadily from 927 in 2008 to 1,257 in 2012. Working beyond the "Karoshi line" (80-100 hours of monthly overtime) severely increases risks of depression, cardiovascular issues, and fatigue accumulation.
 
-## Recommendations:
+## Recommendations
 
 **Enforce Strict Caps Below the Karoshi Threshold:**
 - Organizations must implement hard caps on monthly overtime to prevent workers from reaching 80-100 overtime hours per month, as health risks increase exponentially past this limit.
